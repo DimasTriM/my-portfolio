@@ -68,7 +68,7 @@ This project is licensed under the terms described in the [LICENSE](LICENSE) fil
 
 ---
 
-Made with ❤️ by **Amine Hamzaoui**
+Made with ❤️ by **Amine Hamzaou**
 
 ```bash
 git clone https://github.com/Saboo24/portfolio-showcase.git
