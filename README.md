@@ -52,19 +52,15 @@ This project is licensed under the terms described in the [LICENSE](LICENSE) fil
 
 ---
 
-## 🚀 How to Use / Customize
-
-1. **Clone the repository:**
-
 ---
 
 ## 📬 Contact
 
-- Email: aminehamzaoui1925@gmail.com
-- Location: Boumerdès, Algeria
+- Email: dimsartz021@gmail.com
+- Location: Central Java, Indonesia
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b/)
-- GitHub: [GitHub](https://github.com/Saboo24)
-- Instagram: [Instagram](https://www.instagram.com/a__m.i.n__e/?utm_source=ig_web_button_share_sheet)
+- GitHub: [GitHub](https://github.com/DimasTriM)
+- Instagram: [Instagram](https://www.instagram.com/dimasu_tm?igsh=MXF2dWNubTF4N205Mw==)
 
 ---
 
