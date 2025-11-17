@@ -6,7 +6,8 @@ Welcome to **Amine's Portfolio Showcase**!
 I am an AI Engineer passionate about building intelligent, data-driven solutions.
 My focus is on Machine Learning, Deep Learning and Computer Vision.
 I bring ideas to life by writing clean Python code and impactful applications.
-My journey began with a love for data and evolved into a deep curiosity for how AI models work—combining complex algorithms with practical applications.
+My journey began with a love for data 
+and evolved into a deep curiosity for how AI models work—combining complex algorithms with practical applications.
 
 ---
 
