@@ -2,7 +2,6 @@
 
 # Dimas Tri M Portfolio Showcase 💻
 
-Welcome to **Amine's Portfolio Showcase**!  
 I am an AI Engineer passionate about building intelligent, data-driven solutions.
 My focus is on Machine Learning, Deep Learning and Computer Vision.
 I bring ideas to life by writing clean Python code and impactful applications.
