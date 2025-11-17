@@ -1,4 +1,4 @@
-![Logo](images/homepage.png)
+![Logo](homepage.png)
 
 # Dimas Tri M Portfolio Showcase 💻
 
